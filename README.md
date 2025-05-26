@@ -1,3 +1,3 @@
-# Gold Price Heatmap
+# Full Gold Heatmap React App
 
-Upload CSV, scroll through weeks, and subscribe to alerts.
+This is the full version with multi-week heatmap, CSV upload, and email alerts.
