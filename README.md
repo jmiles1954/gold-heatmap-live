@@ -1,3 +1,3 @@
-# Full Gold Heatmap React App
+# Gold Heatmap Dashboard
 
-This is the full version with multi-week heatmap, CSV upload, and email alerts.
+Fully working React app deployed via Vercel.
